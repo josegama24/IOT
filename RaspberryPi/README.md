@@ -11,8 +11,7 @@
 <p align="center">
 <img src="https://i.imgur.com/bBIJMmC.jpg" title="JF" alt="VS"></a>
 <img src="https://i.imgur.com/gKv5xn0.jpg" title="JF" alt="VS"></a> 
-<img src="https://i.imgur.com/yDSryvY.jpg" title="JF" alt="VS"></a> 
-<img src="https://i.imgur.com/wiDhZBz.jpg" title="JF" alt="VS"></a> 
+<img src="https://i.imgur.com/yDSryvY.jpg" title="JF" alt="VS"></a>  
 </p>
 
 
